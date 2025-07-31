@@ -1,4 +1,4 @@
-# Simeple Webhook + WebSocket demo
+# Simple Webhook + WebSocket demo
 Simple app with backend and frontend to demonstrate usage of webhooks and websockets
 
 ## Usage
